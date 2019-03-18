@@ -52,8 +52,9 @@ public class LRU {
             } 
           
         } 
-System.out.println("No. of page faults:");
-        System.out.println(page_faults); 
+System.out.println("No. of page faults: and this is extra for git");
+        System.out.println(page_faults);
+ 
     } 
 } 
 // trying out the git!!
